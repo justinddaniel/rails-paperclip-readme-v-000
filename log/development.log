@@ -381,3 +381,7 @@ Processing by AuthorsController#index as HTML
   [1m[36mAuthor Load (0.8ms)[0m  [1mSELECT "authors".* FROM "authors"[0m
   Rendered authors/index.html.erb within layouts/application (10.5ms)
 Completed 200 OK in 30ms (Views: 24.9ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/assets/original/default-4d452c63d330fa4ca5200c3fa437bfd595741d59846222f62704f02365fdbc6c.png" for 73.110.103.54 at 2018-02-02 00:01:19 +0000
+Cannot render console from 73.110.103.54! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
